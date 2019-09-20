@@ -4,4 +4,4 @@
 
 [Wednesday-Thursday](https://github.com/cph-ms782/review_week38_wednesday_thursday)  
 
-[Friday]()  
+[Friday](https://github.com/cph-ms782/review_week38_friday)  
